@@ -1,0 +1,4 @@
+$psversiontable
+
+
+Get-AzStorageAccount
